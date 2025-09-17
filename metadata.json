@@ -1,0 +1,5 @@
+{
+  "name": "Ayurvedic Diet Architect",
+  "description": "A professional web application for Ayurvedic doctors to generate personalized diet plans for patients using AI. Input patient details to receive a comprehensive, AI-driven diet management system.",
+  "requestFramePermissions": []
+}
